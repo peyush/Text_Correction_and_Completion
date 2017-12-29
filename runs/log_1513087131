@@ -1,0 +1,4 @@
+# log_file=runs\log_1513087131
+  created train model with fresh parameters, time 11.82s
+# Start step 0, lr 0.001, Tue Dec 12 19:29:08 2017
+  global step 0 loss 1547.053 step-time 45.73s wps 0.04K
